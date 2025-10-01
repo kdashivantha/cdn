@@ -12,8 +12,6 @@
     {
       "id": "common-circle",
       "type": "circle",
-      "maxzoom": 30,
-      "minzoom": 20,
       "paint": {
         "circle-radius": 4,
         "circle-color": "#1E90FF",
