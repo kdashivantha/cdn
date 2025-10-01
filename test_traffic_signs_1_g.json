@@ -1,0 +1,31 @@
+{
+  "version": 8,
+  "name": "Traffic_signs",
+  "id": "traffic_signs",
+  "pitch": 50,
+  "center": [
+    0,
+    0
+  ],
+  "sprite": "https://api.pdok.nl/lv/bag/ogc/v1/resources/standaardsprites/sprites",
+  "layers": [
+    {
+      "id": "common-circle",
+      "type": "circle",
+      "maxzoom": 30,
+      "minzoom": 20,
+      "paint": {
+        "circle-radius": 4,
+        "circle-color": "#1E90FF",
+        "circle-stroke-color": "#000000",
+        "circle-stroke-width": 1
+      },
+      "source": "dynamic"
+    }
+  ],
+  "sources": {
+    "dynamic": {
+      "type": "geojson"
+    }
+  }
+}
