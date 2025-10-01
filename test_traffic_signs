@@ -10,13 +10,16 @@
   "sprite": "https://api.pdok.nl/lv/bag/ogc/v1/resources/standaardsprites/sprites",
   "layers": [
     {
-      "id": "standplaats",
-      "type": "point",
+      "id": "common-circle",
+      "type": "circle",
+      "maxzoom": 30,
+      "minzoom": 20,
       "paint": {
-        "fill-color": "rgb(220,169,208)",
-        "fill-outline-color": "rgb(85,85, 85)",
-        "fill-opacity": 1
-      },
+        "circle-radius": 4,
+        "circle-color": "#1E90FF",
+        "circle-stroke-color": "#000000",
+        "circle-stroke-width": 1
+      }
       "source": "dynamic"
     }
   ],
