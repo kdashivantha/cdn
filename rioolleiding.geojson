@@ -1,0 +1,6857 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141082.6,
+                        522868.3
+                    ],
+                    [
+                        141069.6,
+                        522906
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 34,
+                "geovisia_id": "F450B238-4B8B-4C1D-A37E-E4C797B82DB9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141384.756,
+                        523068.242
+                    ],
+                    [
+                        141345.627,
+                        523055.671
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 39,
+                "geovisia_id": "7F3538F4-BDFE-487F-BCA3-63E981421902"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140940.42,
+                        523014.04
+                    ],
+                    [
+                        140928.8,
+                        523052.5
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 119,
+                "geovisia_id": "FDE6F67D-7C07-4118-BCD2-89D22F691EBC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141229.101,
+                        523025.3
+                    ],
+                    [
+                        141229.127,
+                        523025.215
+                    ],
+                    [
+                        141231.333,
+                        523025.883
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 151,
+                "geovisia_id": "8CCE06BB-B351-4226-B6A0-ACB1DC0DF13B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141290.615,
+                        522659.143
+                    ],
+                    [
+                        141276.066,
+                        522722.803
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 185,
+                "geovisia_id": "257EFD07-CB04-4548-80A0-7F74F6E492BA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141160.577,
+                        523067.3
+                    ],
+                    [
+                        141161.721,
+                        523062.946
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 321,
+                "geovisia_id": "BE86A78E-D9F3-4F73-9E02-1BD6A17C4FD6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141068.785,
+                        522898.755
+                    ],
+                    [
+                        141074.536,
+                        522900.432
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 487,
+                "geovisia_id": "D8ED514B-84C3-4868-BA50-C5D896278078"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140967.353,
+                        522627.396
+                    ],
+                    [
+                        140950.916,
+                        522660.136
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 626,
+                "geovisia_id": "2FAB7352-2DD7-404F-AC73-0A9C17FC15B8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141180.6,
+                        523004.9
+                    ],
+                    [
+                        141127.1,
+                        522988.5
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 643,
+                "geovisia_id": "5176E5EC-A97F-456B-87E1-97BB82821A38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141106.234,
+                        523037.912
+                    ],
+                    [
+                        141109.625,
+                        523039.814
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 651,
+                "geovisia_id": "D967CEC9-B1A4-45EE-901D-22C2B05000ED"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141118.772,
+                        522712.336
+                    ],
+                    [
+                        141102.775,
+                        522762.025
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 686,
+                "geovisia_id": "D655151F-2201-4801-A88A-D98E341C1623"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141077.5,
+                        522824.6
+                    ],
+                    [
+                        141096.2,
+                        522828.9
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 709,
+                "geovisia_id": "D9E87122-BAE3-40CA-9F9E-DC62CA568D58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141071.33398285037,
+                        523035.27565481444
+                    ],
+                    [
+                        141076.571,
+                        523036.979
+                    ],
+                    [
+                        141076.65,
+                        523036.96
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 718,
+                "geovisia_id": "1AD94CC5-AAA5-4BCF-BDC5-EAB32404FF98"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141113.838,
+                        523041.324
+                    ],
+                    [
+                        141111.184,
+                        523045.52
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 776,
+                "geovisia_id": "33C43E25-D659-43C4-9EC7-061C9E755CE7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141068.939,
+                        523034.447
+                    ],
+                    [
+                        141069.273,
+                        523031.862
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 780,
+                "geovisia_id": "A48A5DB3-31CD-420D-A95C-5EA366DABF71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141334.8,
+                        522673.6
+                    ],
+                    [
+                        141321.971,
+                        522669.565
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 855,
+                "geovisia_id": "0C8DE5C9-40E4-48F7-839E-894DE8ABFC33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141215.62,
+                        523077.73
+                    ],
+                    [
+                        141232.58,
+                        523021.77
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 948,
+                "geovisia_id": "8A9CE438-AD08-44CC-9CE6-F0F3A21A284B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140926.963,
+                        522921.182
+                    ],
+                    [
+                        140928.413,
+                        522920.775
+                    ],
+                    [
+                        140934.536,
+                        522922.675
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1069,
+                "geovisia_id": "2E3C0FE2-6C7C-4493-AE54-38A00EF714C6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141134.843,
+                        522967.676
+                    ],
+                    [
+                        141134.797,
+                        522966.961
+                    ],
+                    [
+                        141132.816,
+                        522966.359
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1073,
+                "geovisia_id": "894C5650-4C9F-4884-A263-A5D0A8906F68"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141424.771,
+                        523017.616
+                    ],
+                    [
+                        141402.868,
+                        523013.62
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1114,
+                "geovisia_id": "8F4AE9BB-75E9-4C27-9950-F82C53C45644"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141298.123,
+                        522661.553
+                    ],
+                    [
+                        141290.615,
+                        522659.143
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1146,
+                "geovisia_id": "913F0EB9-9D85-4A24-9B79-502E2206DBB7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141030.6,
+                        523019.58
+                    ],
+                    [
+                        141010.612,
+                        523012.633
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1310,
+                "geovisia_id": "FAD6DE62-894A-44FE-96A2-7A96170CC8A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141345.627,
+                        523055.671
+                    ],
+                    [
+                        141306.238,
+                        523044.235
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1326,
+                "geovisia_id": "2895EDF7-4BC0-40D9-8154-898B55A8B1CA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141195.179,
+                        523008.924
+                    ],
+                    [
+                        141193.41,
+                        523009.802
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1408,
+                "geovisia_id": "1F984DA5-E37F-4414-A136-AE66A0D0397A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141082.47,
+                        523038.849
+                    ],
+                    [
+                        141082.702,
+                        523038.919
+                    ],
+                    [
+                        141084.392,
+                        523034.222
+                    ],
+                    [
+                        141084.667,
+                        523034.306
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1548,
+                "geovisia_id": "1D865060-2B82-4DFC-A680-EC1784FB6A5A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141434.411,
+                        523023.111
+                    ],
+                    [
+                        141435.515,
+                        523023.447
+                    ],
+                    [
+                        141437.42,
+                        523016.395
+                    ],
+                    [
+                        141437.601,
+                        523016.45
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1603,
+                "geovisia_id": "B942A8AC-5A0C-4B4E-96AD-5C1DB622D9EA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141235.863,
+                        523026.033
+                    ],
+                    [
+                        141236.09,
+                        523025.287
+                    ],
+                    [
+                        141231.898,
+                        523024.017
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1613,
+                "geovisia_id": "067597CC-FA78-49AD-A09B-559496F1A1A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140977.17,
+                        522862.2
+                    ],
+                    [
+                        140986.1,
+                        522833.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1805,
+                "geovisia_id": "D330AB92-F71F-4A24-9F4B-C77B046B974A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141240.304,
+                        523011.14
+                    ],
+                    [
+                        141240.544,
+                        523010.35
+                    ],
+                    [
+                        141236.331,
+                        523009.071
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 1972,
+                "geovisia_id": "6BBE6A81-E42E-47A4-9BC8-2FE131D0037F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141294.602,
+                        522982.61
+                    ],
+                    [
+                        141294.052,
+                        522982.402
+                    ],
+                    [
+                        141296.127,
+                        522975.622
+                    ],
+                    [
+                        141296.815,
+                        522975.831
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2011,
+                "geovisia_id": "6D13074F-734E-4641-BFC6-35EDFA970CA1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141169.112,
+                        522941.637
+                    ],
+                    [
+                        141170.106,
+                        522938.105
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2072,
+                "geovisia_id": "C335B610-0FC4-4731-AAB7-FB0DF425E42F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140932.3,
+                        523069.7
+                    ],
+                    [
+                        140973.4,
+                        523081.5
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2220,
+                "geovisia_id": "8B9AA8C6-E816-472C-9100-84DCDD74F03F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140920,
+                        522795.8
+                    ],
+                    [
+                        140962.1,
+                        522807.9
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2283,
+                "geovisia_id": "CA2DE07B-6AF6-42CE-915A-D469CA047C22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141402.34,
+                        523043.732
+                    ],
+                    [
+                        141402.53,
+                        523043.101
+                    ],
+                    [
+                        141393.46,
+                        523040.36
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2350,
+                "geovisia_id": "99EFFB85-987C-4934-9058-46CB9C7E611F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141245.402,
+                        522965.84
+                    ],
+                    [
+                        141244.596,
+                        522960.768
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2374,
+                "geovisia_id": "F1BED6C2-0A68-4AD1-A1C9-F07D7319E033"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141310.091,
+                        523047.72
+                    ],
+                    [
+                        141308.821,
+                        523051.899
+                    ],
+                    [
+                        141304.598,
+                        523051.13
+                    ],
+                    [
+                        141299.206,
+                        523050.148
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2555,
+                "geovisia_id": "C533221B-3265-427F-B991-9FE2D25981B3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141015.079,
+                        522737.225
+                    ],
+                    [
+                        140999.361,
+                        522733.109
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2627,
+                "geovisia_id": "BD870900-870C-4EFB-864C-8933A9896D12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140940.42,
+                        523014.04
+                    ],
+                    [
+                        140954.06,
+                        523016.33
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2680,
+                "geovisia_id": "7B314B98-F310-45AF-B619-CCCC68AC8B97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140998.378,
+                        522752.455
+                    ],
+                    [
+                        141006.83,
+                        522755.078
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2751,
+                "geovisia_id": "064C8818-F7E5-444D-B244-8D10E5ECE98C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140981.522,
+                        522747.203
+                    ],
+                    [
+                        140988.718,
+                        522749.458
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 2874,
+                "geovisia_id": "21722D30-4DFF-487D-84F2-26A16606EB37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141480.3,
+                        523033.4
+                    ],
+                    [
+                        141406.5,
+                        523010.9
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3002,
+                "geovisia_id": "CA74CE70-DBA2-485B-B557-6C5303EBBA79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140998.378,
+                        522752.455
+                    ],
+                    [
+                        140983.8,
+                        522801
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3058,
+                "geovisia_id": "2021DFAA-C198-4DDA-8ED0-5117DCE5F131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140947.142,
+                        522906.081
+                    ],
+                    [
+                        140946.543,
+                        522904.894
+                    ],
+                    [
+                        140939.865,
+                        522902.811
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3237,
+                "geovisia_id": "D1D86A70-FF43-44D6-A9A3-124A04AEA1C0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141096.656,
+                        523043.433
+                    ],
+                    [
+                        141097.783,
+                        523043.776
+                    ],
+                    [
+                        141098.7,
+                        523041.227
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3250,
+                "geovisia_id": "F5446DDD-3213-4243-95D4-6A10DE5797BF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141118.8,
+                        523021.61
+                    ],
+                    [
+                        141118.619,
+                        523022.231
+                    ],
+                    [
+                        141115.675,
+                        523020.962
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3251,
+                "geovisia_id": "BAA1613B-E03D-4606-98C5-A10B42CC8DC3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141139.422,
+                        522992.851
+                    ],
+                    [
+                        141140.688,
+                        522993.9
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3254,
+                "geovisia_id": "92315973-9854-4643-A1A4-4F3068D4E1C6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141232.873,
+                        523013.777
+                    ],
+                    [
+                        141233.01,
+                        523013.393
+                    ],
+                    [
+                        141234.886,
+                        523013.962
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3355,
+                "geovisia_id": "944B0F41-694A-45E7-99CC-4314EF929705"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141125.448,
+                        522999.045
+                    ],
+                    [
+                        141122.597,
+                        522999.394
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3356,
+                "geovisia_id": "A60C7EA7-1036-4C11-8A86-134503E72A89"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141232.58,
+                        523021.77
+                    ],
+                    [
+                        141250.098,
+                        522962.46
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3480,
+                "geovisia_id": "3B3279F5-76CA-4949-B6AD-79BFB694A053"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140980.674,
+                        522806.858
+                    ],
+                    [
+                        141014.4,
+                        522821.96
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3508,
+                "geovisia_id": "F1AA8F7C-0DEE-457D-8120-9159BE1506ED"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141293.427,
+                        523067.876
+                    ],
+                    [
+                        141293.256,
+                        523068.401
+                    ],
+                    [
+                        141299.792,
+                        523070.388
+                    ],
+                    [
+                        141299.842,
+                        523070.225
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3782,
+                "geovisia_id": "ADB9824D-CBCF-4754-BE70-D30DE4211EA9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141148.835,
+                        522929.775
+                    ],
+                    [
+                        141147.734,
+                        522931.418
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 3836,
+                "geovisia_id": "490D0137-4B25-4553-B5F6-01507A91580A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141012.728,
+                        522734.823
+                    ],
+                    [
+                        141006.83,
+                        522755.078
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4145,
+                "geovisia_id": "17833733-57E8-48D9-B396-6D6D4BA8A725"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141021.882,
+                        522705.579
+                    ],
+                    [
+                        141012.728,
+                        522734.823
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4250,
+                "geovisia_id": "33EE3B90-8FC3-4D91-92DF-784B4F872175"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141229.446,
+                        523046.331
+                    ],
+                    [
+                        141229.614,
+                        523045.775
+                    ],
+                    [
+                        141223.528,
+                        523043.931
+                    ],
+                    [
+                        141224.111,
+                        523042.014
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4443,
+                "geovisia_id": "5202BB39-460C-4890-9F8E-D978B4F7CB45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141130.09,
+                        522984.817
+                    ],
+                    [
+                        141130.776,
+                        522990.922
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4473,
+                "geovisia_id": "649EC3B2-9B90-40DE-8CE5-175D3DA38579"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141119.335,
+                        523051.366
+                    ],
+                    [
+                        141117.525,
+                        523047.978
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4491,
+                "geovisia_id": "53CC68F0-A3BD-49A1-AADE-CD9A72DE8225"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141238.352,
+                        523001.874
+                    ],
+                    [
+                        141238.448,
+                        523001.902
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4492,
+                "geovisia_id": "556E7868-16F4-47D1-A396-CA1F95FCD026"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141144.6,
+                        522931.3
+                    ],
+                    [
+                        141198.6,
+                        522947.7
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4718,
+                "geovisia_id": "8B4C961B-64BA-4DA6-B4AD-885ABA869E51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140933.7,
+                        522925.8
+                    ],
+                    [
+                        140934.102,
+                        522925.202
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4817,
+                "geovisia_id": "F4C646CE-ACEF-4036-946B-6FD7D303E625"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141093.866,
+                        522844.781
+                    ],
+                    [
+                        141092.304,
+                        522843.997
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4905,
+                "geovisia_id": "95D642A8-80C9-4CE3-A1F3-91D728029EDF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141232.58,
+                        523021.77
+                    ],
+                    [
+                        141180.98,
+                        523006
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4926,
+                "geovisia_id": "733D23B2-8911-4587-8676-1C12FCB0B8C2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141152.036,
+                        522996.638
+                    ],
+                    [
+                        141152.324,
+                        522997.396
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4933,
+                "geovisia_id": "2FACBE3E-2D7A-4B15-8DB5-4025A41CC61E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141043.161,
+                        522992.076
+                    ],
+                    [
+                        141042.149,
+                        522993.471
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4934,
+                "geovisia_id": "7BE6716F-48C5-452C-86D0-0E96FB577802"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141081.972,
+                        522827.659
+                    ],
+                    [
+                        141083.463,
+                        522827.925
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4935,
+                "geovisia_id": "BA0C7520-99A5-4B2E-9666-F8E742F2B5F4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141089.063,
+                        522834.531
+                    ],
+                    [
+                        141093.054,
+                        522831.092
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 4936,
+                "geovisia_id": "657E4FA3-75FE-4E63-8301-5368086B95AD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141209.705,
+                        522952.577
+                    ],
+                    [
+                        141206.301,
+                        522950.293
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5068,
+                "geovisia_id": "80A76CBB-D3A9-4975-9C19-C7E9454F77FF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141127.1,
+                        522988.5
+                    ],
+                    [
+                        141144.6,
+                        522931.3
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5258,
+                "geovisia_id": "2ACB496D-D44E-411D-931B-11D2F2310C5F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141049.636,
+                        522974.976
+                    ],
+                    [
+                        141048.282,
+                        522975.718
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5853,
+                "geovisia_id": "FF3579CA-6462-4D3A-B656-FA22D892BDA4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140981.522,
+                        522747.203
+                    ],
+                    [
+                        140990.58,
+                        522715.35
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5895,
+                "geovisia_id": "EB90333F-6915-4255-8195-ABCD4090C7E0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141313.859,
+                        522988.476
+                    ],
+                    [
+                        141313.46,
+                        522988.354
+                    ],
+                    [
+                        141315.588,
+                        522981.399
+                    ],
+                    [
+                        141316.144,
+                        522981.568
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5898,
+                "geovisia_id": "3BBF80CA-B0A9-4B29-9AAE-773CBB5613B2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141068.939,
+                        523034.447
+                    ],
+                    [
+                        141068.963,
+                        523034.497
+                    ],
+                    [
+                        141071.33398285037,
+                        523035.27565481444
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 5901,
+                "geovisia_id": "59AABDE3-078C-4625-9121-CF3E7F2CB686"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141319.948,
+                        523067.613
+                    ],
+                    [
+                        141319.639,
+                        523065.901
+                    ],
+                    [
+                        141305.164,
+                        523061.501
+                    ],
+                    [
+                        141301.194,
+                        523060.294
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6006,
+                "geovisia_id": "18F416F3-FB96-4E2F-83BC-4913B8647352"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141081.198,
+                        522882.355
+                    ],
+                    [
+                        141081.099,
+                        522882.681
+                    ],
+                    [
+                        141074.473,
+                        522880.513
+                    ],
+                    [
+                        141074.381,
+                        522880.817
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6128,
+                "geovisia_id": "85D6C516-426D-4837-98E1-DD8E9909C584"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141043.06,
+                        522712.114
+                    ],
+                    [
+                        141047.2,
+                        522699.5
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6215,
+                "geovisia_id": "D7CCD3C3-E1ED-43AA-80BF-67F09FD213BA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141138.92,
+                        522954.711
+                    ],
+                    [
+                        141138.502,
+                        522954.239
+                    ],
+                    [
+                        141136.673,
+                        522953.683
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6255,
+                "geovisia_id": "50E0F61F-E238-4D09-A58F-45405D7F03D4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141069.118,
+                        523036.129
+                    ],
+                    [
+                        141068.763,
+                        523036.02
+                    ],
+                    [
+                        141068.939,
+                        523034.447
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6265,
+                "geovisia_id": "1A7BA91C-3873-4FC9-921B-3FC502BFDB82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141081.429,
+                        522861.036
+                    ],
+                    [
+                        141081.291,
+                        522861.49
+                    ],
+                    [
+                        141087.692,
+                        522863.584
+                    ],
+                    [
+                        141087.858,
+                        522863.035
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6313,
+                "geovisia_id": "BAE2E6E1-CBA4-447C-99C0-F840D05E0A6D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141324.973,
+                        523052.008
+                    ],
+                    [
+                        141325.605,
+                        523052.2
+                    ],
+                    [
+                        141326.858,
+                        523048.072
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6336,
+                "geovisia_id": "3F747B8D-A274-42D9-B4BA-A01CDA7CD128"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141424.771,
+                        523017.616
+                    ],
+                    [
+                        141426.21,
+                        523014.21
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6454,
+                "geovisia_id": "7E4A6595-1D8B-4E8C-A577-10C767D2CCC5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141397.116,
+                        523061.181
+                    ],
+                    [
+                        141397.031,
+                        523061.473
+                    ],
+                    [
+                        141387.491,
+                        523058.591
+                    ],
+                    [
+                        141387.672,
+                        523057.969
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6504,
+                "geovisia_id": "5ED4624B-DD2B-4EAC-B1BC-4E33D72EF77A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141304.713,
+                        523063.049
+                    ],
+                    [
+                        141305.164,
+                        523061.501
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6824,
+                "geovisia_id": "FFA52E15-F520-4E0A-93D9-DD3CF7C1D1F2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141130.93,
+                        523052.662
+                    ],
+                    [
+                        141131.661,
+                        523050.571
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6832,
+                "geovisia_id": "906C47C3-CF94-4D4A-B6EE-C51329FBDFC3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141018.722,
+                        522934.699
+                    ],
+                    [
+                        141039.8,
+                        522872.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6854,
+                "geovisia_id": "60262C7C-2AF2-48C8-8B08-4B59249EB3DD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141225.882,
+                        523058.359
+                    ],
+                    [
+                        141226.157,
+                        523057.453
+                    ],
+                    [
+                        141219.886,
+                        523055.552
+                    ],
+                    [
+                        141220.09,
+                        523054.897
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6873,
+                "geovisia_id": "D389F2FD-80E3-4C0B-8315-172A212F6F66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140967.7,
+                        522892.3
+                    ],
+                    [
+                        140957.7,
+                        522920.4
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6946,
+                "geovisia_id": "D1833596-39D3-4CE6-8A0E-5961CE5B77FF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140948.748,
+                        522987.807
+                    ],
+                    [
+                        140949.068,
+                        522981.621
+                    ],
+                    [
+                        140949.481,
+                        522978.976
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 6982,
+                "geovisia_id": "06FAA44D-3BC7-4209-AE0D-CA2470E0954D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141224.458,
+                        522958.778
+                    ],
+                    [
+                        141224.661,
+                        522958.84
+                    ],
+                    [
+                        141226.633,
+                        522952.339
+                    ],
+                    [
+                        141227.187,
+                        522952.508
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 7089,
+                "geovisia_id": "B6FE48F5-E77E-440C-96D4-AAE29DA665D4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141437.08,
+                        522975.52
+                    ],
+                    [
+                        141404.09,
+                        522964.94
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 7112,
+                "geovisia_id": "DC1DE480-8863-454B-B249-4EADFEE266AA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141391.664,
+                        523011.524
+                    ],
+                    [
+                        141393.787,
+                        523005.372
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 7179,
+                "geovisia_id": "0B46574E-D7FC-4986-AE0F-B6B991FFF123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141059.748,
+                        522848.216
+                    ],
+                    [
+                        141077.5,
+                        522824.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 7286,
+                "geovisia_id": "34CAD6A7-9C61-4BE6-BA48-59905D2315A1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141407.838,
+                        523026.069
+                    ],
+                    [
+                        141398.367,
+                        523022.911
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 7343,
+                "geovisia_id": "FACD3F42-4AB4-4960-AB26-2C21025AC343"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141055.963,
+                        523031.306
+                    ],
+                    [
+                        141057.201,
+                        523027.047
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 7451,
+                "geovisia_id": "CDCDE8A9-FD56-408E-A3E0-3452F01DC0D3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141069.019,
+                        522823.327
+                    ],
+                    [
+                        141069.172,
+                        522823.207
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 7806,
+                "geovisia_id": "AF32025A-680D-4AF6-97D6-C84BC272CA1A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141155.4,
+                        523061.21
+                    ],
+                    [
+                        141215.62,
+                        523077.73
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 7845,
+                "geovisia_id": "A9349392-659F-4E84-9888-D0E7328BA0B3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141102.521,
+                        522830.228
+                    ],
+                    [
+                        141100.603,
+                        522833.584
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8057,
+                "geovisia_id": "A10FDEAB-B15B-4185-A7BA-56F2CC00CE74"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141250.098,
+                        522962.46
+                    ],
+                    [
+                        141198.01,
+                        522946.45
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8097,
+                "geovisia_id": "67CEB5DC-0F61-4FC3-8746-D107BB49357D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141311.39,
+                        523107.55
+                    ],
+                    [
+                        141331.5,
+                        523050.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8117,
+                "geovisia_id": "1AA35ACA-06ED-4B5D-805C-390AFEF78553"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141233.8,
+                        523021
+                    ],
+                    [
+                        141180.6,
+                        523004.9
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8165,
+                "geovisia_id": "B7CCE974-1CD5-4F37-A965-80BB668DB679"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141108.14,
+                        523044.44
+                    ],
+                    [
+                        141125.8,
+                        522989.43
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8209,
+                "geovisia_id": "49952968-F972-4C96-94B5-C73C48B740A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141426.21,
+                        523014.21
+                    ],
+                    [
+                        141437.08,
+                        522975.52
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8302,
+                "geovisia_id": "127D172A-BF10-4CF4-A130-6829B2339E23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141384.756,
+                        523068.242
+                    ],
+                    [
+                        141381.97,
+                        523077
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8304,
+                "geovisia_id": "7494F00B-79CB-4FFA-953A-48FF0C5989D7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141125.8,
+                        522989.43
+                    ],
+                    [
+                        141143.81,
+                        522930.24
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8409,
+                "geovisia_id": "17A190A4-2916-42BF-B782-3AA0D5A7F03A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141136.7,
+                        522647.4
+                    ],
+                    [
+                        141131.57,
+                        522662.24
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8502,
+                "geovisia_id": "B0B7FA78-033D-4C60-9B67-9E71A003321E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140965.116,
+                        522993.607
+                    ],
+                    [
+                        140983.882,
+                        522967.822
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8653,
+                "geovisia_id": "F22CAD34-A089-4603-B386-BEBF77101E52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141043.5,
+                        522981.6
+                    ],
+                    [
+                        141041.24,
+                        522988.03
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 8737,
+                "geovisia_id": "3F54F587-4E2E-4635-B7C6-432F016B7B95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141045.6,
+                        522813.8
+                    ],
+                    [
+                        141077.5,
+                        522824.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 9165,
+                "geovisia_id": "EAEB5247-C63E-4F78-8693-2C3FE156FC80"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141402.868,
+                        523013.62
+                    ],
+                    [
+                        141330.84,
+                        522992.39
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 9401,
+                "geovisia_id": "5C75DD2B-FABC-4D09-ABF1-8B7549DA4E0F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141062.365,
+                        522939.138
+                    ],
+                    [
+                        141062.175,
+                        522939.763
+                    ],
+                    [
+                        141056.708,
+                        522937.887
+                    ],
+                    [
+                        141056.852,
+                        522937.416
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 9547,
+                "geovisia_id": "5D017E3E-83A0-4098-86A7-E68CBD9AD099"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140931.374,
+                        522907.106
+                    ],
+                    [
+                        140931.803,
+                        522906.775
+                    ],
+                    [
+                        140938.251,
+                        522908.831
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 9633,
+                "geovisia_id": "54D04D38-2743-4413-B10F-A5507DE93A84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141215.322,
+                        523070.676
+                    ],
+                    [
+                        141212.255,
+                        523076.805
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 9649,
+                "geovisia_id": "711156D4-905D-47E0-95B5-5AFAFE54E7B8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141155.4,
+                        523061.21
+                    ],
+                    [
+                        141143.4,
+                        523102.19
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 9752,
+                "geovisia_id": "F400A99C-638B-4A5A-AC07-E61CF5E740C2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141245.096,
+                        522960.922
+                    ],
+                    [
+                        141247.284,
+                        522959.378
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 9801,
+                "geovisia_id": "398C33C9-C306-4D4F-95AF-76903AAD7673"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141077.9,
+                        523029.47
+                    ],
+                    [
+                        141077.29,
+                        523033.94
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 9831,
+                "geovisia_id": "81D82571-5AE2-4E1C-ACCC-DA68EB2B7D2A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141131.57,
+                        522662.24
+                    ],
+                    [
+                        141118.772,
+                        522712.336
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 9900,
+                "geovisia_id": "CF9F1037-B7DB-48BC-A9BA-07F6BC2EE021"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141085.226,
+                        522806.586
+                    ],
+                    [
+                        141077.5,
+                        522824.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 10084,
+                "geovisia_id": "23B91B41-D8D6-4727-BC50-FE31FC705B20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141387.2,
+                        523075
+                    ],
+                    [
+                        141389.3,
+                        523067.9
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 10232,
+                "geovisia_id": "18AC71A7-D77F-44B3-B906-EFDD59AE217D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141389.3,
+                        523067.9
+                    ],
+                    [
+                        141331.5,
+                        523050.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 10427,
+                "geovisia_id": "D444299F-7B08-4248-B40C-C8191B8B289C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141077.29,
+                        523033.94
+                    ],
+                    [
+                        141108.14,
+                        523044.44
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 10670,
+                "geovisia_id": "D31B2C36-488F-4417-B7AC-16B605A9A0A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141192.726,
+                        523071.449
+                    ],
+                    [
+                        141193.437,
+                        523069.05
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 10806,
+                "geovisia_id": "42CBA19F-4D52-44DF-93A8-F5FA3D29302D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140933.7,
+                        522925.8
+                    ],
+                    [
+                        140933.74271521787,
+                        522925.1080360417
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 11002,
+                "geovisia_id": "7892CC66-0AE7-4FB8-89C8-4B9BB045EDF1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141065.77,
+                        522925.12
+                    ],
+                    [
+                        141096.19,
+                        522832.13
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 11351,
+                "geovisia_id": "034CB22F-8707-4FB6-BF31-D2A041FFF685"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141051.404,
+                        522954.361
+                    ],
+                    [
+                        141054.345,
+                        522958.172
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 11545,
+                "geovisia_id": "A105F58B-9B24-4A97-9115-A9E8C2563C3F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140948.748,
+                        522987.807
+                    ],
+                    [
+                        140965.116,
+                        522993.607
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 11668,
+                "geovisia_id": "0CE74883-6993-4F01-A22F-FDDAE11653E6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141406.5,
+                        523010.9
+                    ],
+                    [
+                        141406.623,
+                        523010.857
+                    ],
+                    [
+                        141424.124,
+                        523016.213
+                    ],
+                    [
+                        141427.465,
+                        523014.375
+                    ],
+                    [
+                        141438.96,
+                        522976.168
+                    ],
+                    [
+                        141420.883,
+                        522940.619
+                    ],
+                    [
+                        141402.143,
+                        522934.94
+                    ],
+                    [
+                        141402.38,
+                        522932.06
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 11765,
+                "geovisia_id": "A8FA5793-4E28-4920-98A9-1C386B4CC0B5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141135.237,
+                        522950.894
+                    ],
+                    [
+                        141137.328,
+                        522951.53
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 11809,
+                "geovisia_id": "56F4F72E-FC6E-4451-BEC2-A2106ABC1C70"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141037.117,
+                        523006.842
+                    ],
+                    [
+                        141037.467,
+                        523007.023
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 11814,
+                "geovisia_id": "C07431D1-7897-494C-8922-CA4713B9C5E2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141306.238,
+                        523044.235
+                    ],
+                    [
+                        141289.624,
+                        523097.075
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 11832,
+                "geovisia_id": "B1DA4B8E-3F77-4FE0-A537-E5B16396AAFF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141317.12,
+                        522667.74
+                    ],
+                    [
+                        141316.618,
+                        522667.933
+                    ],
+                    [
+                        141316.241,
+                        522669.115
+                    ],
+                    [
+                        141316.214,
+                        522669.181
+                    ],
+                    [
+                        141316.17,
+                        522669.255
+                    ],
+                    [
+                        141316.113,
+                        522669.321
+                    ],
+                    [
+                        141316.045,
+                        522669.376
+                    ],
+                    [
+                        141315.969,
+                        522669.419
+                    ],
+                    [
+                        141315.886,
+                        522669.447
+                    ],
+                    [
+                        141315.8,
+                        522669.461
+                    ],
+                    [
+                        141315.713,
+                        522669.46
+                    ],
+                    [
+                        141315.621,
+                        522669.442
+                    ],
+                    [
+                        141296.971,
+                        522663.87
+                    ],
+                    [
+                        141296.873,
+                        522663.851
+                    ],
+                    [
+                        141296.786,
+                        522663.851
+                    ],
+                    [
+                        141296.7,
+                        522663.866
+                    ],
+                    [
+                        141296.618,
+                        522663.895
+                    ],
+                    [
+                        141296.542,
+                        522663.939
+                    ],
+                    [
+                        141296.475,
+                        522663.995
+                    ],
+                    [
+                        141296.419,
+                        522664.061
+                    ],
+                    [
+                        141296.375,
+                        522664.137
+                    ],
+                    [
+                        141296.348,
+                        522664.207
+                    ],
+                    [
+                        141288.651,
+                        522690.221
+                    ],
+                    [
+                        141288.625,
+                        522690.288
+                    ],
+                    [
+                        141288.582,
+                        522690.363
+                    ],
+                    [
+                        141288.526,
+                        522690.43
+                    ],
+                    [
+                        141288.459,
+                        522690.486
+                    ],
+                    [
+                        141288.383,
+                        522690.53
+                    ],
+                    [
+                        141288.301,
+                        522690.56
+                    ],
+                    [
+                        141288.216,
+                        522690.575
+                    ],
+                    [
+                        141288.128,
+                        522690.575
+                    ],
+                    [
+                        141288.03,
+                        522690.556
+                    ],
+                    [
+                        141284.984,
+                        522689.634
+                    ],
+                    [
+                        141284.423,
+                        522691.895
+                    ],
+                    [
+                        141277.007,
+                        522689.665
+                    ],
+                    [
+                        141207.386,
+                        522668.727
+                    ],
+                    [
+                        141200.036,
+                        522692.996
+                    ],
+                    [
+                        141196.218,
+                        522691.838
+                    ],
+                    [
+                        141191.769,
+                        522690.489
+                    ],
+                    [
+                        141187.033,
+                        522705.026
+                    ],
+                    [
+                        141170.843,
+                        522700.376
+                    ],
+                    [
+                        141169.414,
+                        522699.923
+                    ],
+                    [
+                        141159.132,
+                        522694.108
+                    ],
+                    [
+                        141159,
+                        522691.2
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 11980,
+                "geovisia_id": "12BA10A9-A906-42F3-A57A-D5E7779A16D5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140949.481,
+                        522978.976
+                    ],
+                    [
+                        140949.013,
+                        522979.791
+                    ],
+                    [
+                        140947.236,
+                        522985.405
+                    ],
+                    [
+                        140947.226,
+                        522985.439
+                    ],
+                    [
+                        140947.212,
+                        522985.492
+                    ],
+                    [
+                        140947.202,
+                        522985.546
+                    ],
+                    [
+                        140947.195,
+                        522985.6
+                    ],
+                    [
+                        140947.19,
+                        522985.655
+                    ],
+                    [
+                        140947.189,
+                        522985.709
+                    ],
+                    [
+                        140947.191,
+                        522985.764
+                    ],
+                    [
+                        140947.195,
+                        522985.819
+                    ],
+                    [
+                        140947.203,
+                        522985.873
+                    ],
+                    [
+                        140947.214,
+                        522985.927
+                    ],
+                    [
+                        140947.227,
+                        522985.98
+                    ],
+                    [
+                        140947.244,
+                        522986.032
+                    ],
+                    [
+                        140947.263,
+                        522986.084
+                    ],
+                    [
+                        140947.285,
+                        522986.134
+                    ],
+                    [
+                        140947.31,
+                        522986.183
+                    ],
+                    [
+                        140947.337,
+                        522986.23
+                    ],
+                    [
+                        140947.367,
+                        522986.276
+                    ],
+                    [
+                        140947.4,
+                        522986.32
+                    ],
+                    [
+                        140947.435,
+                        522986.363
+                    ],
+                    [
+                        140947.472,
+                        522986.403
+                    ],
+                    [
+                        140947.511,
+                        522986.441
+                    ],
+                    [
+                        140947.552,
+                        522986.477
+                    ],
+                    [
+                        140947.595,
+                        522986.511
+                    ],
+                    [
+                        140947.64,
+                        522986.542
+                    ],
+                    [
+                        140947.687,
+                        522986.571
+                    ],
+                    [
+                        140947.735,
+                        522986.597
+                    ],
+                    [
+                        140947.785,
+                        522986.621
+                    ],
+                    [
+                        140947.835,
+                        522986.642
+                    ],
+                    [
+                        140947.887,
+                        522986.66
+                    ],
+                    [
+                        140950.956,
+                        522987.631
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12033,
+                "geovisia_id": "423E8CE6-BBEC-4DF3-9F41-4FC2F893CA31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141073.23,
+                        523032.54
+                    ],
+                    [
+                        141033.37,
+                        523018.88
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12289,
+                "geovisia_id": "8DC444A8-C844-4EB8-A055-93C3BF5682CF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141233.8,
+                        523021
+                    ],
+                    [
+                        141216.4,
+                        523078.7
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12365,
+                "geovisia_id": "0AA8EB02-3D55-4CDC-9F7E-8A709FB214B5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141096.19,
+                        522832.13
+                    ],
+                    [
+                        141060.15,
+                        522820.23
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12366,
+                "geovisia_id": "BD62A35D-B130-4B0C-8372-09E49120428D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141057.815,
+                        522770.417
+                    ],
+                    [
+                        141045.6,
+                        522813.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12383,
+                "geovisia_id": "5D656E9A-9C43-4FD0-8D7E-4382A4D66A14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140392.399,
+                        522926.452
+                    ],
+                    [
+                        140392.786,
+                        522926.548
+                    ],
+                    [
+                        140551.816,
+                        522966.402
+                    ],
+                    [
+                        140559.161,
+                        522967.958
+                    ],
+                    [
+                        140562.45,
+                        522953.786
+                    ],
+                    [
+                        140566.951,
+                        522946.167
+                    ],
+                    [
+                        140575.817,
+                        522910.409
+                    ],
+                    [
+                        140577.771,
+                        522907.419
+                    ],
+                    [
+                        140582.519,
+                        522900.173
+                    ],
+                    [
+                        140585.545,
+                        522895.805
+                    ],
+                    [
+                        140589.342,
+                        522893.557
+                    ],
+                    [
+                        140594.179,
+                        522891.688
+                    ],
+                    [
+                        140598.53,
+                        522890.007
+                    ],
+                    [
+                        140600.759,
+                        522889.145
+                    ],
+                    [
+                        140607.452,
+                        522886.301
+                    ],
+                    [
+                        140615.104,
+                        522881.489
+                    ],
+                    [
+                        140653.264,
+                        522867.608
+                    ],
+                    [
+                        140698.788,
+                        522850.607
+                    ],
+                    [
+                        140700.205,
+                        522849.772
+                    ],
+                    [
+                        140705.42,
+                        522845.379
+                    ],
+                    [
+                        140710.599,
+                        522841.016
+                    ],
+                    [
+                        140711.468,
+                        522839.71
+                    ],
+                    [
+                        140715.803,
+                        522826.087
+                    ],
+                    [
+                        140719.889,
+                        522812.99
+                    ],
+                    [
+                        140723.809,
+                        522800.392
+                    ],
+                    [
+                        140728.189,
+                        522785.906
+                    ],
+                    [
+                        140735.919,
+                        522759.303
+                    ],
+                    [
+                        140736.908,
+                        522756.033
+                    ],
+                    [
+                        140736.992,
+                        522755.809
+                    ],
+                    [
+                        140737.304,
+                        522755.105
+                    ],
+                    [
+                        140737.675,
+                        522754.431
+                    ],
+                    [
+                        140738.104,
+                        522753.792
+                    ],
+                    [
+                        140738.587,
+                        522753.193
+                    ],
+                    [
+                        140739.12,
+                        522752.638
+                    ],
+                    [
+                        140739.699,
+                        522752.132
+                    ],
+                    [
+                        140740.32,
+                        522751.678
+                    ],
+                    [
+                        140740.979,
+                        522751.28
+                    ],
+                    [
+                        140741.67,
+                        522750.942
+                    ],
+                    [
+                        140742.387,
+                        522750.664
+                    ],
+                    [
+                        140743.126,
+                        522750.45
+                    ],
+                    [
+                        140743.881,
+                        522750.301
+                    ],
+                    [
+                        140744.646,
+                        522750.219
+                    ],
+                    [
+                        140745.416,
+                        522750.204
+                    ],
+                    [
+                        140746.183,
+                        522750.255
+                    ],
+                    [
+                        140756.504,
+                        522752.5
+                    ],
+                    [
+                        140761.893,
+                        522753.979
+                    ],
+                    [
+                        140911.899,
+                        522797.155
+                    ],
+                    [
+                        140927.663,
+                        522802.046
+                    ],
+                    [
+                        140951.982,
+                        522809.088
+                    ],
+                    [
+                        140976.736,
+                        522817.492
+                    ],
+                    [
+                        140989.216,
+                        522823.564
+                    ],
+                    [
+                        140998.621,
+                        522828.166
+                    ],
+                    [
+                        141003.877,
+                        522830.779
+                    ],
+                    [
+                        141006.116,
+                        522831.891
+                    ],
+                    [
+                        141007.845,
+                        522839.247
+                    ],
+                    [
+                        140998.005,
+                        522865.781
+                    ],
+                    [
+                        140995.984,
+                        522870.648
+                    ],
+                    [
+                        140985.974,
+                        522897.647
+                    ],
+                    [
+                        140972.59,
+                        522932.65
+                    ],
+                    [
+                        140955.836,
+                        522978.841
+                    ],
+                    [
+                        140953.466,
+                        522986.328
+                    ],
+                    [
+                        140950.956,
+                        522987.631
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12420,
+                "geovisia_id": "E88AE26E-A0ED-4CE3-AA37-CC43F7611CF0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141028.059,
+                        522761.665
+                    ],
+                    [
+                        141057.815,
+                        522770.417
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12506,
+                "geovisia_id": "0C9DCC6F-9E2F-4103-8542-BAF4A2261EBC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141281.996,
+                        522972.99
+                    ],
+                    [
+                        141251.263,
+                        522963.508
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12701,
+                "geovisia_id": "C4FCD123-4A9C-41DE-9208-F4A7CC96BC12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141111.1,
+                        522832.3
+                    ],
+                    [
+                        141124.9,
+                        522800
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12739,
+                "geovisia_id": "778D6E1D-F322-466F-8152-C4C27FAAA10B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140934.102,
+                        522925.202
+                    ],
+                    [
+                        140939.279,
+                        522926.825
+                    ],
+                    [
+                        140939.906,
+                        522926.497
+                    ],
+                    [
+                        140949.991,
+                        522894.314
+                    ],
+                    [
+                        140949.663,
+                        522893.688
+                    ],
+                    [
+                        140941.881,
+                        522891.235
+                    ],
+                    [
+                        140938.241,
+                        522893.106
+                    ],
+                    [
+                        140929.194,
+                        522921.976
+                    ],
+                    [
+                        140933.74271521787,
+                        522925.1080360417
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12748,
+                "geovisia_id": "21715E80-33AA-4E17-A753-22EE30CD9E3F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141006.638,
+                        522975.976
+                    ],
+                    [
+                        141018.722,
+                        522934.699
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12845,
+                "geovisia_id": "D09E3DEE-03AB-4A70-B41E-A7F5156CA54D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141150.755,
+                        523059.59
+                    ],
+                    [
+                        141151.148,
+                        523057.761
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12906,
+                "geovisia_id": "54325FFA-2E1D-4E39-A7D1-9A496E15B178"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141043.672,
+                        523022.411
+                    ],
+                    [
+                        141044.022,
+                        523020.869
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 12907,
+                "geovisia_id": "7FAD93D3-7FD2-4B7E-A456-8F6FE3E58BE4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141108.9,
+                        523046.4
+                    ],
+                    [
+                        141127.1,
+                        522988.5
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 13044,
+                "geovisia_id": "0B985A56-B9BA-4BCD-ACA1-E8094DEC1761"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140948.8,
+                        522869.5
+                    ],
+                    [
+                        140967,
+                        522818.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 13120,
+                "geovisia_id": "3BD8FB83-116C-4084-B91B-6FA9F32727E2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141402.868,
+                        523013.62
+                    ],
+                    [
+                        141384.756,
+                        523068.242
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 13268,
+                "geovisia_id": "39A3433B-2135-462C-9247-CE3EE3A8C127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141149.9,
+                        522913.6
+                    ],
+                    [
+                        141117.7,
+                        522904.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 13619,
+                "geovisia_id": "FA4A9B14-8F2A-426C-852D-58FE4A795000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140983.882,
+                        522967.822
+                    ],
+                    [
+                        141006.638,
+                        522975.976
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 13660,
+                "geovisia_id": "53889B77-40F3-49A9-A958-60C218B1B1AB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141074.23,
+                        523028.03
+                    ],
+                    [
+                        141073.23,
+                        523032.54
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 13666,
+                "geovisia_id": "BA99D6B3-644F-4B12-B621-497A23EA0A25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140979.429,
+                        522790.279
+                    ],
+                    [
+                        140984.862,
+                        522792.235
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 13905,
+                "geovisia_id": "07ADD686-C81F-4403-81A8-82071C513CE1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141140.568,
+                        522934.683
+                    ],
+                    [
+                        141142.481,
+                        522934.597
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 13935,
+                "geovisia_id": "C2F3608B-2441-40EE-942A-4ECFE10211B6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140988.718,
+                        522749.458
+                    ],
+                    [
+                        140998.378,
+                        522752.455
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 13963,
+                "geovisia_id": "3411D3C5-2029-4ED9-9781-A858C0F15DC8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141032.615,
+                        522760.658
+                    ],
+                    [
+                        141053.692,
+                        522766.789
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 14021,
+                "geovisia_id": "5EA5F044-7EB9-48CF-9680-10C74014C161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140950.916,
+                        522660.136
+                    ],
+                    [
+                        140939.274,
+                        522698.147
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 14087,
+                "geovisia_id": "A937AE34-E332-4882-A10D-AB8192C40EA1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141364.401,
+                        523062.719
+                    ],
+                    [
+                        141363.846,
+                        523062.558
+                    ],
+                    [
+                        141365.166,
+                        523058.216
+                    ],
+                    [
+                        141365.666,
+                        523058.361
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 14487,
+                "geovisia_id": "B3A33F62-0FCA-4A09-8159-3D1B5F06C9C2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141041.24,
+                        522988.03
+                    ],
+                    [
+                        141030.6,
+                        523019.58
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 14493,
+                "geovisia_id": "E40D2457-55D0-40CD-AD05-91F06F3EEFBA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140983.8,
+                        522666.1
+                    ],
+                    [
+                        140956.86,
+                        522671.17
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 14569,
+                "geovisia_id": "6C50DED6-ABC9-44A8-8636-72C4B26AE9E1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141003.4,
+                        522671.8
+                    ],
+                    [
+                        141024.56,
+                        522601.173
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 14677,
+                "geovisia_id": "E786789B-739C-4087-9795-6F9815F7BB43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141101.018,
+                        522836.356
+                    ],
+                    [
+                        141100.603,
+                        522833.584
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 14947,
+                "geovisia_id": "D0E5B8F1-6B65-4E26-83B5-2AD234891CCC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140941.557,
+                        522924.238
+                    ],
+                    [
+                        140934.692,
+                        522922.096
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15063,
+                "geovisia_id": "D46D5424-EFB5-4A0C-B03A-9F2BD71E8D61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141171.035,
+                        522935.513
+                    ],
+                    [
+                        141170.894,
+                        522935.47
+                    ],
+                    [
+                        141170.106,
+                        522938.105
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15083,
+                "geovisia_id": "7CCF0332-B41F-44BD-9DC9-EA2BAAA80289"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141003.4,
+                        522671.8
+                    ],
+                    [
+                        140983.8,
+                        522666.1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15089,
+                "geovisia_id": "B2CFCBDD-52A3-499F-B617-13F90F616E16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141304.598,
+                        523051.13
+                    ],
+                    [
+                        141306.973,
+                        523043.317
+                    ],
+                    [
+                        141307.609,
+                        523043.511
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15090,
+                "geovisia_id": "E54F6421-C1C7-4FC1-99BD-714434FFF16F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141076.65,
+                        523036.96
+                    ],
+                    [
+                        141070.7,
+                        523045.1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15096,
+                "geovisia_id": "147950D0-2A96-45E6-AAC6-3FBAFB25FC32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141039.8,
+                        522872.8
+                    ],
+                    [
+                        141059.748,
+                        522848.216
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15107,
+                "geovisia_id": "1D6CFF1F-1900-4AF1-B509-FF1129F28E33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141069.6,
+                        522906
+                    ],
+                    [
+                        141056.7,
+                        522943.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15180,
+                "geovisia_id": "40B4093F-8EF2-48BB-822E-08AD1DB438A8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141353.002,
+                        523000.217
+                    ],
+                    [
+                        141352.243,
+                        522999.987
+                    ],
+                    [
+                        141354.335,
+                        522993.149
+                    ],
+                    [
+                        141355.081,
+                        522993.375
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15216,
+                "geovisia_id": "9D4EB10F-4FA9-444A-BEA4-FC4328EBDD86"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141124.9,
+                        522800
+                    ],
+                    [
+                        141136.2,
+                        522763.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15275,
+                "geovisia_id": "25A2DA78-00BB-4911-91A5-E5B2D2966BAD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140954.06,
+                        523016.33
+                    ],
+                    [
+                        140966.09,
+                        522995.73
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15325,
+                "geovisia_id": "44CD0FC4-ABDD-4BFF-BEE7-AD984FA936DC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141348.4,
+                        522994.1
+                    ],
+                    [
+                        141281.996,
+                        522972.99
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15395,
+                "geovisia_id": "5EDEF530-4B03-4D2A-A544-2C94B24A8A4B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141304.6,
+                        523042.4
+                    ],
+                    [
+                        141331.5,
+                        523050.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15686,
+                "geovisia_id": "F1FDEECB-CB8D-482F-84DA-78E852B233D4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141033.37,
+                        523018.88
+                    ],
+                    [
+                        141065.77,
+                        522925.12
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15850,
+                "geovisia_id": "56916ABA-8D1A-42F3-9755-30F656766127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141096.2,
+                        522828.9
+                    ],
+                    [
+                        141111.1,
+                        522832.3
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15906,
+                "geovisia_id": "D54E865A-2850-4201-B23B-93A658968FF1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140990.58,
+                        522715.35
+                    ],
+                    [
+                        140968.36,
+                        522708.22
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 15997,
+                "geovisia_id": "F60F79CA-0021-4BDA-8817-4F73723D4D84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140997.392,
+                        522750.359
+                    ],
+                    [
+                        141032.615,
+                        522760.658
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16006,
+                "geovisia_id": "98CE935A-5298-423B-A39F-5F1D3C47655B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141006.83,
+                        522755.078
+                    ],
+                    [
+                        141028.059,
+                        522761.665
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16031,
+                "geovisia_id": "EAAA8FC6-8DDC-466D-8346-F04854F83D1C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140948.748,
+                        522987.807
+                    ],
+                    [
+                        140940.42,
+                        523014.04
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16054,
+                "geovisia_id": "43EB0FBB-B596-4766-A5CF-332B56613D55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141006.638,
+                        522975.976
+                    ],
+                    [
+                        141041.24,
+                        522988.03
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16060,
+                "geovisia_id": "B582F310-3D1A-4FFD-A132-0B421B98B879"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141053.692,
+                        522766.789
+                    ],
+                    [
+                        141042.15,
+                        522804.63
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16066,
+                "geovisia_id": "963085B2-2AFE-409C-83EB-3B870AC65E80"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140929.56,
+                        522942.56
+                    ],
+                    [
+                        140933.7,
+                        522925.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16257,
+                "geovisia_id": "634005D8-C74B-4DBC-BD35-F3F4D09BEFE3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140933.7,
+                        522925.8
+                    ],
+                    [
+                        140948.8,
+                        522869.5
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16295,
+                "geovisia_id": "57E1DB3A-413C-469E-8F81-9CE39F0B7465"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141156.5,
+                        523062.4
+                    ],
+                    [
+                        141136.5,
+                        523130.4
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16311,
+                "geovisia_id": "7741D6B1-6767-4058-861B-3E6D345864FF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141197.672,
+                        523076.737
+                    ],
+                    [
+                        141197.693,
+                        523072.811
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16522,
+                "geovisia_id": "77FBE867-B24A-4BBE-9916-3AE8C262CF10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140933.46,
+                        522933.992
+                    ],
+                    [
+                        140946,
+                        522888.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16534,
+                "geovisia_id": "056235D2-66BA-4E7F-8612-42F14F683F73"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141124.416,
+                        522987.09
+                    ],
+                    [
+                        141126.338,
+                        522987.645
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16563,
+                "geovisia_id": "3C6A8960-90D8-47F9-B2A6-1F1D3D85122D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140962.1,
+                        522807.9
+                    ],
+                    [
+                        140981.522,
+                        522747.203
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16616,
+                "geovisia_id": "B1962F1F-3572-4F36-816D-6BC44B5225E9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141119.144,
+                        523004.354
+                    ],
+                    [
+                        141120.749,
+                        523005.152
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16618,
+                "geovisia_id": "638BEC0C-94FB-4813-ADC7-F96116DB7B6E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140983.882,
+                        522967.822
+                    ],
+                    [
+                        140961.758,
+                        522948.488
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16789,
+                "geovisia_id": "FCF5577C-47E0-480C-9C43-9EC8D7574622"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141136.2,
+                        522763.8
+                    ],
+                    [
+                        141147.6,
+                        522727.4
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16924,
+                "geovisia_id": "9D0EDC22-5751-41E3-A826-0538331BF63D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141306.399,
+                        523043.143
+                    ],
+                    [
+                        141306.973,
+                        523043.317
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16968,
+                "geovisia_id": "AC9BF5D6-A5F0-4F6B-B2D2-DB8110CF9FC1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140952.169,
+                        522660.202
+                    ],
+                    [
+                        140940.066,
+                        522699.203
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 16974,
+                "geovisia_id": "AFF5F44A-676D-40B0-AE33-DA420FEFA23E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140984.862,
+                        522792.235
+                    ],
+                    [
+                        140997.392,
+                        522750.359
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 17119,
+                "geovisia_id": "7508C145-6F90-47FE-B47D-430511064311"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140968.383,
+                        522627.654
+                    ],
+                    [
+                        140952.169,
+                        522660.202
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 17199,
+                "geovisia_id": "D22769D4-7268-4CFB-8C5B-4A4014A36576"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141374.92,
+                        523006.513
+                    ],
+                    [
+                        141376.773,
+                        523000.271
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 17542,
+                "geovisia_id": "8A560866-1F6D-4B18-87C5-9B0E0161045B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141086.598,
+                        522824.451
+                    ],
+                    [
+                        141086.068,
+                        522824.29
+                    ],
+                    [
+                        141083.463,
+                        522827.925
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 17644,
+                "geovisia_id": "47771900-5A13-4F05-B5C4-1F865FA56D09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141037.07,
+                        523025.217
+                    ],
+                    [
+                        141036.613,
+                        523025.078
+                    ],
+                    [
+                        141038.168,
+                        523020.524
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 17645,
+                "geovisia_id": "3F51FDA6-4B53-47E8-A710-B97F1225B914"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140925.165,
+                        522923.389
+                    ],
+                    [
+                        140933.7,
+                        522925.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 17757,
+                "geovisia_id": "4ECD7319-7711-4A53-B275-7C0A5A428FA1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140967,
+                        522818.8
+                    ],
+                    [
+                        140973,
+                        522799.5
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 17763,
+                "geovisia_id": "EC462785-6014-427E-AD0B-94348B653105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141031.094,
+                        523008.403
+                    ],
+                    [
+                        141035.515,
+                        523012.67
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 17772,
+                "geovisia_id": "5356F454-300D-4A51-A710-6D7DBDC33759"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141043.06,
+                        522712.114
+                    ],
+                    [
+                        141021.882,
+                        522705.579
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18070,
+                "geovisia_id": "5D6AF137-A7C3-48EA-9589-F822A7CFA011"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141330.84,
+                        522992.39
+                    ],
+                    [
+                        141284.172,
+                        522976.796
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18140,
+                "geovisia_id": "8D044DC1-D149-454C-AAD5-A95891C598E3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140950.517,
+                        522898.128
+                    ],
+                    [
+                        140949.076,
+                        522897.646
+                    ],
+                    [
+                        140948.767,
+                        522896.469
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18198,
+                "geovisia_id": "EA225A8D-56FB-47B5-A95E-D5F113F769BE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141334.719,
+                        522994.88
+                    ],
+                    [
+                        141332.807,
+                        522994.299
+                    ],
+                    [
+                        141334.953,
+                        522987.283
+                    ],
+                    [
+                        141334.283,
+                        522987.08
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18271,
+                "geovisia_id": "7DF91951-0A3A-4E10-9E67-115161C1A258"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141287.2,
+                        523100.2
+                    ],
+                    [
+                        141304.6,
+                        523042.4
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18350,
+                "geovisia_id": "B5C843F6-3E10-4EE1-A03C-53D077CB4961"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141406.5,
+                        523010.9
+                    ],
+                    [
+                        141348.4,
+                        522994.1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18404,
+                "geovisia_id": "23BBCD18-91ED-4126-BA39-17AC729FC7F9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141462.3,
+                        522683.5
+                    ],
+                    [
+                        141400,
+                        522678.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18407,
+                "geovisia_id": "E253F5A6-A19D-4E18-83A9-3707CAF5F6E7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141056.7,
+                        522943.8
+                    ],
+                    [
+                        141043.5,
+                        522981.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18408,
+                "geovisia_id": "FDF09C62-3D32-4CB9-8DF1-EA2004A71B0C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141113.755,
+                        522837.926
+                    ],
+                    [
+                        141117.916,
+                        522832.999
+                    ],
+                    [
+                        141118.979,
+                        522829.502
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18606,
+                "geovisia_id": "D085AFE0-9305-43B5-A1ED-7560F895CD39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141483.283,
+                        523036.054
+                    ],
+                    [
+                        141424.771,
+                        523017.616
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18759,
+                "geovisia_id": "933274C9-183F-498E-AE51-0366C5F21906"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141410.62,
+                        523016.044
+                    ],
+                    [
+                        141413.705,
+                        523009.508
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18783,
+                "geovisia_id": "2AF99C06-734E-4398-AC42-DE58C0CC5D4B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141251.263,
+                        522963.508
+                    ],
+                    [
+                        141233.8,
+                        523021
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18792,
+                "geovisia_id": "BF24981B-F3EC-462D-9DB8-D902A363A70E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141389.3,
+                        523067.9
+                    ],
+                    [
+                        141406.5,
+                        523010.9
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 18970,
+                "geovisia_id": "F8DCFA22-D044-4114-B64A-D2BF7E11B930"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141053.692,
+                        522766.789
+                    ],
+                    [
+                        141068.53,
+                        522718.01
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 19023,
+                "geovisia_id": "55764D6C-687A-423A-9804-4F33267333A3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141053.929,
+                        522819.83
+                    ],
+                    [
+                        141055.947,
+                        522818.207
+                    ],
+                    [
+                        141056.279,
+                        522814.143
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 19184,
+                "geovisia_id": "8753EA9B-8BAF-4001-BBA0-6B93B3383C15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141143.81,
+                        522930.24
+                    ],
+                    [
+                        141145.05,
+                        522926.08
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 19210,
+                "geovisia_id": "429E0CA7-DE2B-414C-962B-77EBD28D702E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141219.901,
+                        523017.895
+                    ],
+                    [
+                        141222.435,
+                        523016.846
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 19430,
+                "geovisia_id": "A0A27BC9-90E1-4931-9D0D-BCC83D8D622D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141398.679,
+                        523069.858
+                    ],
+                    [
+                        141386.515,
+                        523066.183
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 19522,
+                "geovisia_id": "D5E14DD6-1AB5-4914-9EC0-4D46989F212A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141400,
+                        522678.6
+                    ],
+                    [
+                        141334.8,
+                        522673.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 19571,
+                "geovisia_id": "5933A368-6406-412D-A75B-E011524BF7F0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141298.123,
+                        522661.553
+                    ],
+                    [
+                        141317.12,
+                        522667.74
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 19656,
+                "geovisia_id": "0B7D347F-C332-4836-BAB9-4BB966BDA5CB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141108.9,
+                        523046.4
+                    ],
+                    [
+                        141156.5,
+                        523062.4
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 19668,
+                "geovisia_id": "0671220C-A249-469B-8587-05B980D465FB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141159.609,
+                        522671.798
+                    ],
+                    [
+                        141160.084,
+                        522671.896
+                    ],
+                    [
+                        141160.929,
+                        522664.836
+                    ],
+                    [
+                        141166.475,
+                        522658.92
+                    ],
+                    [
+                        141167.487,
+                        522659.228
+                    ],
+                    [
+                        141182.20348600816,
+                        522663.6807336733
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 19781,
+                "geovisia_id": "9EDD7E1B-2D44-4A2C-AD5F-F6CE52534179"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141137.646,
+                        523057.7
+                    ],
+                    [
+                        141138.199,
+                        523055.202
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20079,
+                "geovisia_id": "4D2AB005-F681-49BE-ADD6-3D24D9134D97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141076.65,
+                        523036.96
+                    ],
+                    [
+                        141108.9,
+                        523046.4
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20081,
+                "geovisia_id": "5C7416C1-7508-4644-B515-337FE8538D7B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141096.2,
+                        522828.9
+                    ],
+                    [
+                        141082.6,
+                        522868.3
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20158,
+                "geovisia_id": "DF6AC90E-E63D-4145-828D-0F0EC1454DD3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141075.75,
+                        523023.87
+                    ],
+                    [
+                        141074.23,
+                        523028.03
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20220,
+                "geovisia_id": "71F08B16-8503-4DA2-AAFF-89BB7B386DC7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140977.17,
+                        522862.2
+                    ],
+                    [
+                        140990.9,
+                        522866.52
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20380,
+                "geovisia_id": "A55D851A-FED1-4ED5-A26E-1E758A05CB66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141159,
+                        522691.2
+                    ],
+                    [
+                        141153.4,
+                        522651.9
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20382,
+                "geovisia_id": "C9DA888D-0C7D-4C2E-B7FF-3828C2EC2E13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141056.6,
+                        522665.8
+                    ],
+                    [
+                        141066.6,
+                        522635.62
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20522,
+                "geovisia_id": "A86313AE-487D-4233-AD7E-F5A51E05873F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141062.018,
+                        523028.698
+                    ],
+                    [
+                        141062.565,
+                        523027.18
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20528,
+                "geovisia_id": "0D1A0C92-9638-4962-BA2F-32CD30AAC48E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141200.951,
+                        522951.61
+                    ],
+                    [
+                        141206.301,
+                        522950.293
+                    ],
+                    [
+                        141207.457,
+                        522946.485
+                    ],
+                    [
+                        141207.68,
+                        522946.553
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20697,
+                "geovisia_id": "439D4ED4-86A2-4B87-A560-73B47644F0BD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141113.203,
+                        523024.015
+                    ],
+                    [
+                        141114.476,
+                        523024.698
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20715,
+                "geovisia_id": "91F2D00A-4A9E-4323-8D6E-94357FA3E63B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141131.345,
+                        522971.19
+                    ],
+                    [
+                        141129.08,
+                        522970.5
+                    ],
+                    [
+                        141129.621,
+                        522968.72
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20746,
+                "geovisia_id": "E8869D8F-199D-41C3-8AB1-7EA1861D438F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141198.01,
+                        522946.45
+                    ],
+                    [
+                        141143.81,
+                        522930.24
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20805,
+                "geovisia_id": "E5B7E6B2-C6B6-4AC4-A87B-FD26D719B0D2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140967.7,
+                        522892.3
+                    ],
+                    [
+                        140979.793,
+                        522896.67
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20810,
+                "geovisia_id": "E07BC050-FD80-4FA3-B52B-0EF201A35F14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141055.545,
+                        522957.617
+                    ],
+                    [
+                        141054.345,
+                        522958.172
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20813,
+                "geovisia_id": "F9F581EE-1B50-4804-9D0A-20AEEBDCB6F9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140942.121,
+                        522894.394
+                    ],
+                    [
+                        140950.124,
+                        522896.899
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20816,
+                "geovisia_id": "AA63247B-ACF6-433F-87DE-5E4EED032104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141063.058,
+                        522919.396
+                    ],
+                    [
+                        141067.677,
+                        522919.271
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20880,
+                "geovisia_id": "154246F5-5360-4813-A753-D515C57F76E9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141047.2,
+                        522699.5
+                    ],
+                    [
+                        141056.6,
+                        522665.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 20912,
+                "geovisia_id": "A917878B-816D-4AF7-AEDD-A7FAE421FF99"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141147.6,
+                        522727.4
+                    ],
+                    [
+                        141159,
+                        522691.2
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21020,
+                "geovisia_id": "FAC77D7B-5113-4B57-84AC-F958EA83D2C3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141284.984,
+                        522689.634
+                    ],
+                    [
+                        141284.423,
+                        522691.895
+                    ],
+                    [
+                        141277.007,
+                        522689.665
+                    ],
+                    [
+                        141207.386,
+                        522668.727
+                    ],
+                    [
+                        141200.036,
+                        522692.996
+                    ],
+                    [
+                        141196.219,
+                        522691.838
+                    ],
+                    [
+                        141191.769,
+                        522690.489
+                    ],
+                    [
+                        141187.033,
+                        522705.026
+                    ],
+                    [
+                        141170.844,
+                        522700.376
+                    ],
+                    [
+                        141169.414,
+                        522699.923
+                    ],
+                    [
+                        141159.132,
+                        522694.108
+                    ],
+                    [
+                        141159,
+                        522691.2
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21021,
+                "geovisia_id": "DF66E9A0-5842-444F-8072-FF936192A6FC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141108.14,
+                        523044.44
+                    ],
+                    [
+                        141155.4,
+                        523061.21
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21174,
+                "geovisia_id": "9189D381-5682-4CA7-86E2-D720B695436F"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141126.29,
+                        522842.06
+                    ],
+                    [
+                        141096.19,
+                        522832.13
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21317,
+                "geovisia_id": "134A1994-F4A5-42A8-AB11-612FD44BAD13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141014.4,
+                        522821.96
+                    ],
+                    [
+                        141025.1,
+                        522817.48
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21376,
+                "geovisia_id": "78BB2AE3-138C-4027-AEE0-0ABFA4146649"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140984.862,
+                        522792.235
+                    ],
+                    [
+                        140980.674,
+                        522806.858
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21394,
+                "geovisia_id": "69F80D4B-01D4-4536-9F04-AAD56C72A477"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141079.62,
+                        523024.87
+                    ],
+                    [
+                        141077.9,
+                        523029.47
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21530,
+                "geovisia_id": "D5A0E4CD-83A6-4ED7-B1B5-7E67824D0C90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141187.307,
+                        522947.589
+                    ],
+                    [
+                        141187.234,
+                        522947.566
+                    ],
+                    [
+                        141189.189,
+                        522941.026
+                    ],
+                    [
+                        141189.585,
+                        522941.146
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21541,
+                "geovisia_id": "B7110177-D12C-4CEC-85F5-FDAE2C8D6183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141180.98,
+                        523006
+                    ],
+                    [
+                        141125.8,
+                        522989.43
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21543,
+                "geovisia_id": "73ACCFD4-BDF6-4A95-AA2D-67D3A3649170"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141068.939,
+                        523034.447
+                    ],
+                    [
+                        141076.65,
+                        523036.96
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21546,
+                "geovisia_id": "848149C7-9A55-4808-91AA-F14D072221EB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141030.6,
+                        523019.58
+                    ],
+                    [
+                        141068.939,
+                        523034.447
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 21572,
+                "geovisia_id": "BB066D94-B4B2-4FED-B9EE-6BA51E96F3A0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141181.657,
+                        523072.484
+                    ],
+                    [
+                        141182.889,
+                        523068.752
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22168,
+                "geovisia_id": "6F007303-BC61-4E6D-8DBA-B0EE4542F7B9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141247.325,
+                        522986.805
+                    ],
+                    [
+                        141243.3,
+                        522985.478
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22169,
+                "geovisia_id": "F048310A-C54F-46D3-9BA4-3C175F8385F7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141210.089,
+                        523013.49
+                    ],
+                    [
+                        141210.242,
+                        523014.944
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22258,
+                "geovisia_id": "07C9FFD1-3B1A-4198-ADE5-A32A2D95F0AA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141156.5,
+                        523062.4
+                    ],
+                    [
+                        141216.4,
+                        523078.7
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22317,
+                "geovisia_id": "54605D5A-9DE2-45F1-AC2C-23B20B467CC3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140976.599,
+                        522762.694
+                    ],
+                    [
+                        140940.38,
+                        522746.71
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22466,
+                "geovisia_id": "16089D39-37CA-4685-81F2-ABACE482D000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140990.58,
+                        522715.35
+                    ],
+                    [
+                        141003.4,
+                        522671.8
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22492,
+                "geovisia_id": "31D44846-E344-460E-B8F4-23101B0016AC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140933.46,
+                        522933.992
+                    ],
+                    [
+                        140886.7,
+                        522920.2
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22560,
+                "geovisia_id": "70AB080B-504B-40B1-BCEE-0E210C4ABEFF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140967.7,
+                        522892.3
+                    ],
+                    [
+                        140977.17,
+                        522862.2
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22631,
+                "geovisia_id": "F71E47B9-1263-4CD7-86FA-695086C7AEE6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141040.46198964198,
+                        522871.9841311144
+                    ],
+                    [
+                        141037.82097127533,
+                        522872.64812850684
+                    ],
+                    [
+                        141013.2777503042,
+                        522863.68419907533
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22772,
+                "geovisia_id": "C70135AB-F474-4226-82BC-05B53639575B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141176.214,
+                        523003.164
+                    ],
+                    [
+                        141176.172,
+                        523004.56
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22793,
+                "geovisia_id": "D7A97D78-B4C0-4BC5-9ECF-41F57494B9AC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141069.758,
+                        522917.595
+                    ],
+                    [
+                        141067.677,
+                        522919.271
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22794,
+                "geovisia_id": "809ACF01-74FC-4596-8F88-FF9D7542DBEC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141148.386,
+                        522936.038
+                    ],
+                    [
+                        141147.734,
+                        522931.418
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22861,
+                "geovisia_id": "0020511E-F761-4B07-A5D4-FAD14D21E384"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141198.6,
+                        522947.7
+                    ],
+                    [
+                        141251.263,
+                        522963.508
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22977,
+                "geovisia_id": "5E9CBC41-FD7F-4B05-A3AC-09CD42AB46F6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141072.271,
+                        522819.629
+                    ],
+                    [
+                        141069.172,
+                        522823.207
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 22991,
+                "geovisia_id": "CC810C30-1A4B-4615-B068-694576C5C5E7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141043.959,
+                        522976.04
+                    ],
+                    [
+                        141047.479,
+                        522978.044
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23078,
+                "geovisia_id": "313D3E29-E63D-4C88-A907-9B0962F4FCC4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141177.971,
+                        523067.403
+                    ],
+                    [
+                        141178.584,
+                        523065.236
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23109,
+                "geovisia_id": "935D62DB-0759-44CA-BCCC-77082F7B051E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140946,
+                        522888.8
+                    ],
+                    [
+                        140967.7,
+                        522892.3
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23126,
+                "geovisia_id": "0CB8DE40-F586-4084-8869-DFCDB029AE52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141038.004,
+                        522990.229
+                    ],
+                    [
+                        141042.149,
+                        522993.471
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23135,
+                "geovisia_id": "743D471B-D951-4AC0-9BDC-D0C304CE47DD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141085.226,
+                        522806.586
+                    ],
+                    [
+                        141102.775,
+                        522762.025
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23190,
+                "geovisia_id": "9C16EB5C-8A14-4431-997B-44AF0A8CEF3A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140961.758,
+                        522948.488
+                    ],
+                    [
+                        140933.46,
+                        522933.992
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23304,
+                "geovisia_id": "3ADB5616-EDCC-4A6C-882F-F632C76B2989"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140935.859,
+                        522892.792
+                    ],
+                    [
+                        140941.979,
+                        522894.928
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23359,
+                "geovisia_id": "C2033FF1-57CA-4EFA-B019-4B32DC69144B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141285.322,
+                        522688.434
+                    ],
+                    [
+                        141284.984,
+                        522689.634
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23381,
+                "geovisia_id": "E171970E-8DE2-473D-B5E3-4DEE8CAFA648"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140944.682,
+                        522914.266
+                    ],
+                    [
+                        140937.284,
+                        522912.433
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23401,
+                "geovisia_id": "9278001A-2A65-4624-8BE3-22CBC4ECDB5C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141145.05,
+                        522926.08
+                    ],
+                    [
+                        141149.9,
+                        522913.6
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23462,
+                "geovisia_id": "1B14D561-DC2B-4176-8941-D25CB2C63F61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        140922.47461315698,
+                        523318.7268534013
+                    ],
+                    [
+                        140876.831,
+                        523305.66
+                    ],
+                    [
+                        140879.134,
+                        523297.641
+                    ],
+                    [
+                        140874.135,
+                        523288.53
+                    ],
+                    [
+                        140875.47,
+                        523283.869
+                    ],
+                    [
+                        140877.669,
+                        523276.203
+                    ],
+                    [
+                        140879.832,
+                        523269.327
+                    ],
+                    [
+                        140888.09,
+                        523240.14
+                    ],
+                    [
+                        140888.656,
+                        523238.14
+                    ],
+                    [
+                        140888.849,
+                        523237.457
+                    ],
+                    [
+                        140890.737,
+                        523230.778
+                    ],
+                    [
+                        140891.798,
+                        523227.025
+                    ],
+                    [
+                        140895.911,
+                        523212.478
+                    ],
+                    [
+                        140895.966,
+                        523212.332
+                    ],
+                    [
+                        140896.049,
+                        523212.156
+                    ],
+                    [
+                        140896.147,
+                        523211.988
+                    ],
+                    [
+                        140896.259,
+                        523211.829
+                    ],
+                    [
+                        140896.384,
+                        523211.68
+                    ],
+                    [
+                        140898.54,
+                        523209.741
+                    ],
+                    [
+                        140898.658,
+                        523209.598
+                    ],
+                    [
+                        140898.764,
+                        523209.444
+                    ],
+                    [
+                        140898.856,
+                        523209.282
+                    ],
+                    [
+                        140898.933,
+                        523209.113
+                    ],
+                    [
+                        140898.995,
+                        523208.937
+                    ],
+                    [
+                        140899.016,
+                        523208.863
+                    ],
+                    [
+                        140905.966,
+                        523184.62
+                    ],
+                    [
+                        140906.038,
+                        523184.438
+                    ],
+                    [
+                        140906.093,
+                        523184.25
+                    ],
+                    [
+                        140906.132,
+                        523184.059
+                    ],
+                    [
+                        140906.154,
+                        523183.864
+                    ],
+                    [
+                        140906.159,
+                        523183.669
+                    ],
+                    [
+                        140906.147,
+                        523183.473
+                    ],
+                    [
+                        140906.118,
+                        523183.28
+                    ],
+                    [
+                        140906.072,
+                        523183.09
+                    ],
+                    [
+                        140906.01,
+                        523182.904
+                    ],
+                    [
+                        140905.932,
+                        523182.725
+                    ],
+                    [
+                        140905.839,
+                        523182.553
+                    ],
+                    [
+                        140905.731,
+                        523182.39
+                    ],
+                    [
+                        140905.609,
+                        523182.237
+                    ],
+                    [
+                        140905.474,
+                        523182.095
+                    ],
+                    [
+                        140905.327,
+                        523181.965
+                    ],
+                    [
+                        140905.17,
+                        523181.849
+                    ],
+                    [
+                        140905.003,
+                        523181.747
+                    ],
+                    [
+                        140893.201,
+                        523178.36
+                    ],
+                    [
+                        140893.008,
+                        523178.324
+                    ],
+                    [
+                        140892.819,
+                        523178.273
+                    ],
+                    [
+                        140892.636,
+                        523178.204
+                    ],
+                    [
+                        140892.459,
+                        523178.121
+                    ],
+                    [
+                        140892.29,
+                        523178.022
+                    ],
+                    [
+                        140892.131,
+                        523177.909
+                    ],
+                    [
+                        140891.982,
+                        523177.782
+                    ],
+                    [
+                        140891.844,
+                        523177.643
+                    ],
+                    [
+                        140891.719,
+                        523177.492
+                    ],
+                    [
+                        140891.608,
+                        523177.331
+                    ],
+                    [
+                        140891.511,
+                        523177.161
+                    ],
+                    [
+                        140891.43,
+                        523176.983
+                    ],
+                    [
+                        140891.364,
+                        523176.799
+                    ],
+                    [
+                        140891.315,
+                        523176.61
+                    ],
+                    [
+                        140891.282,
+                        523176.417
+                    ],
+                    [
+                        140891.266,
+                        523176.222
+                    ],
+                    [
+                        140891.267,
+                        523176.026
+                    ],
+                    [
+                        140922.555,
+                        523068.906
+                    ],
+                    [
+                        140930.046,
+                        523055.406
+                    ],
+                    [
+                        140952.259,
+                        522990.141
+                    ],
+                    [
+                        140950.956,
+                        522987.631
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 23509,
+                "geovisia_id": "DFD01814-005F-4DA1-944C-3F0C57363E69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141282.97049878605,
+                        522895.5245404394
+                    ],
+                    [
+                        141269.45185100616,
+                        522887.0169610062
+                    ],
+                    [
+                        141264.99450078272,
+                        522875.39392712904
+                    ],
+                    [
+                        141250.86979706056,
+                        522858.9832909958
+                    ],
+                    [
+                        141242.83282258507,
+                        522861.814480079
+                    ],
+                    [
+                        141240.05944687207,
+                        522876.8682906291
+                    ],
+                    [
+                        141236.67369375998,
+                        522888.7139895298
+                    ],
+                    [
+                        141229.24578733055,
+                        522893.5496008596
+                    ],
+                    [
+                        141218.77453579303,
+                        522888.96499423514
+                    ],
+                    [
+                        141213.53013029887,
+                        522883.5632264664
+                    ],
+                    [
+                        141212.47026877722,
+                        522878.69034248166
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 24126,
+                "geovisia_id": "4faad5f8-4817-4477-a722-9a42eead47c7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141212.47026877722,
+                        522878.69034248166
+                    ],
+                    [
+                        141202.82720041834,
+                        522875.8848815741
+                    ],
+                    [
+                        141202.59758361074,
+                        522868.96955303766
+                    ],
+                    [
+                        141197.87139205518,
+                        522869.40203526686
+                    ],
+                    [
+                        141190.67551163086,
+                        522872.23245028115
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 24127,
+                "geovisia_id": "314fa054-0267-4a76-b22c-e08a13ddb449"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141190.67551163086,
+                        522872.23245028115
+                    ],
+                    [
+                        141168.41261406476,
+                        522864.4317613808
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 24128,
+                "geovisia_id": "e04dd751-15c1-44a3-bba5-b3147407b8c1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141196.90135578506,
+                        522785.1180211325
+                    ],
+                    [
+                        141214.9246574715,
+                        522756.2102478968
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 24129,
+                "geovisia_id": "10732708-dce7-4893-a2b9-99563dc894d1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141157.97374758992,
+                        522842.9604065854
+                    ],
+                    [
+                        141157.3674011144,
+                        522830.5092881081
+                    ],
+                    [
+                        141170.52653733123,
+                        522828.6731867439
+                    ],
+                    [
+                        141162.20277312907,
+                        522818.6229906379
+                    ],
+                    [
+                        141174.4460452209,
+                        522811.7526087593
+                    ],
+                    [
+                        141172.77035488348,
+                        522802.8754391752
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 24130,
+                "geovisia_id": "7034c9f1-1810-4cf8-b162-cf733e14bbd1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141193.06149737744,
+                        522886.4927533818
+                    ],
+                    [
+                        141224.68781698192,
+                        522895.8085141233
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 24131,
+                "geovisia_id": "be33a91f-9f8c-451a-be4c-483de7e9b3a9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141171.49303986097,
+                        522880.04256605153
+                    ],
+                    [
+                        141193.06616073428,
+                        522886.4937457231
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 24132,
+                "geovisia_id": "198a09ad-f2ad-4f18-b38c-4b6d589fa149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141192.50948115962,
+                        522900.0828271407
+                    ],
+                    [
+                        141193.06616073428,
+                        522886.4937457231
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 24133,
+                "geovisia_id": "f1c6d883-e072-4aa8-8d73-c324c3197bd2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        141237.6221722617,
+                        522914.48570359533
+                    ],
+                    [
+                        141246.76864111275,
+                        522900.2938114442
+                    ]
+                ]
+            },
+            "properties": {
+                "id": 24134,
+                "geovisia_id": "65aedf55-0943-48eb-954c-3385324b9bd3"
+            }
+        }
+    ]
+}
