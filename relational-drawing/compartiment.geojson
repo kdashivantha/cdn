@@ -1,0 +1,159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141190.6708482086,
+                    522872.2314580614
+                ]
+            },
+            "properties": {
+                "id": 7,
+                "geovisia_id": "af221c6a-fff1-4516-bfd1-d9f59785c418"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141209.1599736015,
+                    522854.83314021834
+                ]
+            },
+            "properties": {
+                "id": 8,
+                "geovisia_id": "bc11a3a8-8638-473b-a7dd-93368a52e6f9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141171.48837663227,
+                    522880.04157388565
+                ]
+            },
+            "properties": {
+                "id": 9,
+                "geovisia_id": "dca49267-156c-42e4-b695-c23d6d62efa0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141193.05683402054,
+                    522886.4917610401
+                ]
+            },
+            "properties": {
+                "id": 10,
+                "geovisia_id": "e7277ee4-7e85-457c-8f23-de71e024e2df"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141224.6831534364,
+                    522895.8075215282
+                ]
+            },
+            "properties": {
+                "id": 11,
+                "geovisia_id": "947e616c-e502-4605-b13b-646ee47cf868"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141246.76397742375,
+                    522900.29281868954
+                ]
+            },
+            "properties": {
+                "id": 12,
+                "geovisia_id": "dff38bf0-d367-4607-990e-cc967c4256ec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141175.58816789015,
+                    522894.9207333825
+                ]
+            },
+            "properties": {
+                "id": 13,
+                "geovisia_id": "5ad968df-f1c9-476a-928d-f49db46dceb8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141192.50481788671,
+                    522900.08183470333
+                ]
+            },
+            "properties": {
+                "id": 14,
+                "geovisia_id": "7d1bba84-8a4c-4a26-8300-5e6c1c294e4f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141214.37180952597,
+                    522906.4627153464
+                ]
+            },
+            "properties": {
+                "id": 15,
+                "geovisia_id": "9ff2ef81-c993-46bb-9278-4e0ca0520b89"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141237.6175087265,
+                    522914.48471078684
+                ]
+            },
+            "properties": {
+                "id": 16,
+                "geovisia_id": "d2e93756-3575-4c5e-9236-da5b9130d2ff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141254.2595829983,
+                    522919.78385222727
+                ]
+            },
+            "properties": {
+                "id": 17,
+                "geovisia_id": "2914e3cd-e7f2-49fb-ac0d-c11819eab37a"
+            }
+        }
+    ]
+}
